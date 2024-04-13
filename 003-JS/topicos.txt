@@ -1,0 +1,18 @@
+======= Strings =======
+ Forma literal
+ Caracteres especiais
+ Função length
+ Função concat
+ Função charAt
+ Função indexOf
+ Função trim
+ Função substring
+ Função split
+ Função startWith
+ Função endWith
+ Função toLowerCase
+ Função toUpperCase
+ Função replace
+ Template string
+
+============= array ===============

@@ -1,0 +1,7 @@
+Operadores if/else
+ Operador ternário
+ Operador switch
+ Operador while
+ Operador for
+ Operador for in prop
+ Operador for of array
